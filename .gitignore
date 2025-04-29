@@ -1,0 +1,7 @@
+biocad_venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.csv
+*.pkl
+.DS_Store
